@@ -48,20 +48,13 @@ career-profile:
         My research interests include Deep Learning with applications in Computer Vision. 
         I am intended to decrease the overall labeled data required in order to train neural networks. 
         To ease and eliminate the neessity of manually labeling data, I have a particular interest in self-supervised methods. 
-        My research goal is to training models with large amounts of unlabeled data and use them across tasks and modalities
-     .
+        My research goal is to training models with large amounts of unlabeled data and use them across tasks and modalities.
+        
 education:
     - degree: M.Sc. in Artificial Intelligence
       university: Amirkabir University of technology (Tehran polytechnic)
       time: 2019 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: B.Sc. in Information Technology
       university: Sharif University of Technology
       time: 2013 - 2018
