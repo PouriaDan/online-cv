@@ -44,10 +44,10 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-        I am a final year M.Sc. student in Computer Engineering at Amirkabir University of Technology, Iran.
+        I am a final year Master's student in Computer Engineering at Amirkabir University of Technology, Iran. 
         My research interests include Deep Learning with applications in Computer Vision. 
-        I am intended to decrease the overall amount of labeled data required in order to train neural networks. 
-        To ease and eliminate the neccessity of manually labeling data, I have a particular interest in self-supervised methods. 
+        I am intended to decrease the overall amount of labeled data required in order to train neural networks.
+        To ease and eliminate the necessity of manually labeling data, I have a particular interest in self-supervised methods. 
         My research goal is to train models with large amounts of unlabeled data and use these models across tasks and modalities.
         
 education:
